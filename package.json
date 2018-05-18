@@ -2,6 +2,11 @@
   "name": "anywhere-chat",
   "version": "0.0.1",
   "description": "a simple chat app",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pyrodesign/anywhere-chat.git"
+  },
+  "license": "GPL-3.0",
   "dependencies": {
     "express": "^4.15.2",
     "socket.io": "^2.1.1"
